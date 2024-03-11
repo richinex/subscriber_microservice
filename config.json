@@ -1,0 +1,6 @@
+{
+    "feature_flag": true,
+    "logging_level": "info",
+    "maintenance_mode": true,
+    "api_rate_limit": 500
+}
